@@ -52,10 +52,6 @@ class Identity extends AbstractPlugin
             );
         }
 
-        if (! $this->authenticationService->hasIdentity()) {
-            return;
-        }
-
         return $this->authenticationService->getIdentity();
     }
 }

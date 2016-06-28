@@ -1,13 +1,13 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "zend-mvc-plugin-identity\n\n\n\n\n\n\nProvides a\n\nzend-mvc\n plugin (for versions 3.0\nand up) that allows retrieving the current identity as provided by\n\nzend-authentication\n.\n\n\n\n\nFile issues at https://github.com/zendframework/zend-mvc-plugin-identity/issues\n\n\nDocumentation is at https://zendframework.github.io/zend-mvc-plugin-identity/", 
+            "location": "/",
+            "text": "zend-mvc-plugin-identity\n\n\n\n\n\n\nProvides a\n\nzend-mvc\n plugin (for versions 3.0\nand up) that allows retrieving the current identity as provided by\n\nzend-authentication\n.\n\n\n\n\nFile issues at https://github.com/zendframework/zend-mvc-plugin-identity/issues\n\n\nDocumentation is at https://zendframework.github.io/zend-mvc-plugin-identity/",
             "title": "Home"
-        }, 
+        },
         {
-            "location": "/#zend-mvc-plugin-identity", 
-            "text": "Provides a zend-mvc  plugin (for versions 3.0\nand up) that allows retrieving the current identity as provided by zend-authentication .   File issues at https://github.com/zendframework/zend-mvc-plugin-identity/issues  Documentation is at https://zendframework.github.io/zend-mvc-plugin-identity/", 
+            "location": "/#zend-mvc-plugin-identity",
+            "text": "Provides a zend-mvc  plugin (for versions 3.0\nand up) that allows retrieving the current identity as provided by zend-authentication .   File issues at https://github.com/zendframework/zend-mvc-plugin-identity/issues  Documentation is at https://zendframework.github.io/zend-mvc-plugin-identity/",
             "title": "zend-mvc-plugin-identity"
         }
     ]

@@ -1,5 +1,9 @@
 # zend-mvc-plugin-identity
 
+> ## Repository abandoned 2019-12-31
+>
+> This repository has moved to laminas/laminas-mvc-plugin-identity.
+
 [![Build Status](https://secure.travis-ci.org/zendframework/zend-mvc-plugin-identity.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-mvc-plugin-identity)
 [![Coverage Status](https://coveralls.io/repos/github/zendframework/zend-mvc-plugin-identity/badge.svg?branch=master)](https://coveralls.io/github/zendframework/zend-mvc-plugin-identity?branch=master)
 
